@@ -1,0 +1,80 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightblue; /*#333*/
+}
+
+li {
+    float: left;
+}
+
+.menu-list {
+    float: right;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: gold;/*#111*/
+}
+
+.body { 
+    padding-left:100px;
+    padding-right:100px;
+}
+
+#main-title {
+    font-family: courier;
+    font-style: italic;
+}
+
+body { 
+    /*background-repeat: repeat-y;
+    background-image: url(/images/characters/crimson-profile.png); 
+    background: url(/images/characters/crimson-profile.png);
+    background-size: 85px 65px;*/
+   
+}
+
+.primary-color-1 {
+    color: green;
+}
+
+.primary-color-2 li a {
+    color: black;
+
+}
+
+
+
+/*
+#F3-Col1-Row1 {
+        padding:77px 0px;
+        background: url(image.bg.png);
+        background-size: contain;
+        @media only screen (max-width: 959px) {
+            padding:33px 0px!important;
+            background: url(image.bg.png); 2000px bottom #a4cb5a!important;
+            background-size: contain;
+        }
+        @media only screen (max-width: 580px) {
+            padding:33px 0px!important;
+        }
+        #F6-Col1-Row1 {
+            padding-top: 50px;
+        }
+
+}
+}
+ */
+
+ 
+
